@@ -10,8 +10,21 @@ export default function Home() {
         boxShadow="0px 25px 25px 0px rgba(0, 0, 0, 0.05)"
         p="1.5rem 1.5rem 2.5rem 1.5rem"
       >
-        <CardBody p="0" gap="1.5rem" bg="white" display="flex" flexDir="column">
-          <Image src="/img/qrCode.png" alt="QR Code" rounded="10px" w="100%" />
+        <CardBody
+          p="0"
+          gap="1.5rem"
+          bg="white"
+          display="flex"
+          flexDir="column"
+          w="288px"
+        >
+          <Image
+            src="/img/qrCode.png"
+            alt="QR Code"
+            rounded="10px"
+            w="full"
+            h="full"
+          />
           <Flex gap="1rem" flexDir="column" px="1rem">
             <Typography bold>
               Improve your front-end skills by building projects
