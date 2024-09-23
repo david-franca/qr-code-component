@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://imgur.com/NFBHurY](https://imgur.com/NFBHurY)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://imgur.com/NFBHurY](https://github.com/david-franca/qr-code-component)
+- Live Site URL: [https://qr-code-component-lake-seven.vercel.app](https://qr-code-component-lake-seven.vercel.app/)
 
 ## My process
 
